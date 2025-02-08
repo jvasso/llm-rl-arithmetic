@@ -1,0 +1,8 @@
+torch
+gymnasium
+tianshou=1.1.0
+transformers
+openai
+wandb
+gputil
+pip install git+https://github.com/jvasso/experiments_utils.git
