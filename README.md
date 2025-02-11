@@ -2,7 +2,7 @@
 
 **🚧 Repository under development. 🚧**
 
-This is the official implementation of the paper "Ignore the KL Penalty! Boosting Exploration on Critical Tokens to Enhance RL Fine-Tuning".
+This is the official implementation of the paper [Ignore the KL Penalty! Boosting Exploration on Critical Tokens to Enhance RL Fine-Tuning](https://arxiv.org/abs/2502.06533).
 
 ## Installation
 
