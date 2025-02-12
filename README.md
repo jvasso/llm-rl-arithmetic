@@ -1,4 +1,4 @@
-# Fine-tuning a language model with RL on an arithmetic task
+# Fine-tuning a language model with reinforcement learning on an arithmetic task
 
 **🚧 Repository under development. 🚧**
 
